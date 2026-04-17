@@ -1,6 +1,5 @@
 <h1 align="center">Hello, World! 👋 I'm Jay Devmurari</h1>
 <h3 align="center">Aspiring AI-ML Engineer from India 🇮🇳</h3>
----
 
 ```python
 class AIMLEngineer:
@@ -33,8 +32,7 @@ class AIMLEngineer:
 
 me = AIMLEngineer()
 me.say_hi()
-
----
+```
 
 ## 🧠 Summary
 <p align="center">
@@ -46,7 +44,7 @@ building real-world projects to kickstart my career as an AI/ML Engineer.
 ---
 
 ## 🌐 Socials:
-<p align="center">
+<p>
   <a href="https://linkedin.com/in/jay-devmurari13">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
   </a>
@@ -60,23 +58,23 @@ building real-world projects to kickstart my career as an AI/ML Engineer.
 ## 🛠️ Skills & Technologies
 
 ### 💻 Languages
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 ### 🤖 Machine Learning & Data Science
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black" />
+  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=yellow" />
 </p>
 
 ### ⚙️ Tools & Platforms
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
